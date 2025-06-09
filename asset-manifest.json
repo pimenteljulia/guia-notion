@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pimenteljulia/guia-notion/static/css/main.e6c13ad2.css",
-    "main.js": "/pimenteljulia/guia-notion/static/js/main.9c927ed4.js",
-    "static/js/453.019a515b.chunk.js": "/pimenteljulia/guia-notion/static/js/453.019a515b.chunk.js",
-    "index.html": "/pimenteljulia/guia-notion/index.html",
-    "main.e6c13ad2.css.map": "/pimenteljulia/guia-notion/static/css/main.e6c13ad2.css.map",
-    "main.9c927ed4.js.map": "/pimenteljulia/guia-notion/static/js/main.9c927ed4.js.map",
-    "453.019a515b.chunk.js.map": "/pimenteljulia/guia-notion/static/js/453.019a515b.chunk.js.map"
+    "main.css": "/guia-notion/static/css/main.e6c13ad2.css",
+    "main.js": "/guia-notion/static/js/main.ad12e589.js",
+    "static/js/453.019a515b.chunk.js": "/guia-notion/static/js/453.019a515b.chunk.js",
+    "index.html": "/guia-notion/index.html",
+    "main.e6c13ad2.css.map": "/guia-notion/static/css/main.e6c13ad2.css.map",
+    "main.ad12e589.js.map": "/guia-notion/static/js/main.ad12e589.js.map",
+    "453.019a515b.chunk.js.map": "/guia-notion/static/js/453.019a515b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9c927ed4.js"
+    "static/js/main.ad12e589.js"
   ]
 }
